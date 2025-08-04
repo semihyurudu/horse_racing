@@ -4,6 +4,7 @@ A dynamic horse racing simulation web application built with Vue 3 and Vite.
 
 ## 🔗 Live Demo
 
+👉 [https://horse-racing-ten.vercel.app/](https://horse-racing-ten.vercel.app/)
 
 ---
 
