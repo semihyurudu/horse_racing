@@ -1,0 +1,25 @@
+{
+  "success": true,
+  "data": [
+    { "id": 1001, "name": "Gülbatur", "condition": 80, "color": "#e99696" },
+    { "id": 1002, "name": "Bold Pilot", "condition": 90, "color": "#7da6f7" },
+    { "id": 1003, "name": "Sakarya", "condition": 75, "color": "#8fbc8f" },
+    { "id": 1004, "name": "Frankel", "condition": 95, "color": "#a9a9a9" },
+    { "id": 1005, "name": "Baba Eskitmez", "condition": 70, "color": "#7b9acc" },
+    { "id": 1006, "name": "Zenyatta", "condition": 85, "color": "#c08080" },
+    { "id": 1007, "name": "Kısrak Yıldızı", "condition": 65, "color": "#70a5a5" },
+    { "id": 1008, "name": "Secretariat", "condition": 92, "color": "#b76b6b" },
+    { "id": 1009, "name": "Şahbatur", "condition": 60, "color": "#7090b0" },
+    { "id": 1010, "name": "Man o' War", "condition": 88, "color": "#7f7f7f" },
+    { "id": 1011, "name": "Altın Koşu", "condition": 55, "color": "#9bbd7e" },
+    { "id": 1012, "name": "Seabiscuit", "condition": 78, "color": "#607050" },
+    { "id": 1013, "name": "Yıldırım", "condition": 50, "color": "#7080a0" },
+    { "id": 1014, "name": "American Pharoah", "condition": 90, "color": "#a05b7a" },
+    { "id": 1015, "name": "Çakırbey", "condition": 68, "color": "#6b8ea2" },
+    { "id": 1016, "name": "Curlin", "condition": 82, "color": "#8b4d4d" },
+    { "id": 1017, "name": "Sultan", "condition": 47, "color": "#526462" },
+    { "id": 1018, "name": "Winx", "condition": 85, "color": "#6f2f2f" },
+    { "id": 1019, "name": "Rüzgar", "condition": 43, "color": "#4a658d" },
+    { "id": 1020, "name": "Black Caviar", "condition": 89, "color": "#5a2a2a" }
+  ]
+}

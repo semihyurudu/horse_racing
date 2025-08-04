@@ -1,0 +1,15 @@
+#!/bin/sh
+. "$(dirname "$0")/_/husky.sh"
+
+# Force correct Node version from nvm (if in use)
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"
+
+# Use the same Node version used in terminal
+nvm use 24 > /dev/null
+
+echo "🔥 Running ESLint in correct Node env"
+npm run lint
+
+echo "🧪 Running unit tests..."
+npm run test:unit
